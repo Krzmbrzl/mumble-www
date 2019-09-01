@@ -5,6 +5,8 @@ publishDir = "../public"
 
 disableKinds = ["taxonomy","taxonomyTerm"]
 
+googleAnalytics = "UA-10674037-3"
+
 [permalinks]
   blog = "/blog/:title/"
 
